@@ -1,4 +1,4 @@
-## Hi there 👋
+## Willkommen in meinem Code-Revier!“ 🐺
 
 <!--
 **Wolfsplayer/Wolfsplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
